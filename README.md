@@ -1,5 +1,5 @@
 # AddToHierarchy
-A simple C# script for unity to spawn an prefab into hierarchy and ping it in the Editor.
+A simple C# script for unity to spawn a prefab into hierarchy and ping it in the Editor.
 
 ## Usage
 1. Put the .cs file inside /Assets/Editor. (Create the folder Editor if it doesn't exist.)
