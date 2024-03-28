@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEditor;
 
+// Simple script I use to spawn prefabs via Toolbar menu items.
+
 namespace BUDDYWORKS.Scripts.AddToHierarchy
 {
     public class InstantiateAndPingPrefabByGUID : MonoBehaviour
